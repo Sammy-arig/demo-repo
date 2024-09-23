@@ -1,2 +1,3 @@
 # demo-repo
-first repository
+first repository.
+Some description.
